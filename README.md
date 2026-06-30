@@ -1,4 +1,7 @@
+![Playwright Tests](https://github.com/saiduzzaman18/Casino-game-playwright/actions/workflows/playwright.yml/badge.svg)
+
 # BetNova Playwright Automation
+
 
 [![Playwright Tests](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions/workflows/playwright.yml/badge.svg)](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions/workflows/playwright.yml)
 
