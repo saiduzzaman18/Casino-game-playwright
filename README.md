@@ -48,7 +48,7 @@ playwright install chromium
 pytest
 
 # Run a specific file
-pytest Tests/test_login.py -v
+pytest Tests/old_login.py -v
 
 # Watch the browser while running (debugging)
 # In conftest.py, set HEADLESS = False
